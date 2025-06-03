@@ -1,0 +1,9 @@
+{
+	"name": "df-dio",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97862bdc-493e-4375-928e-99b0430f8364",
+		"tenantId": "89200c07-8e04-420e-b430-6ecffd73208a"
+	}
+}
